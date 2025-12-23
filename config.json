@@ -1,0 +1,7 @@
+{
+    "hotkey": "ctrl_l",
+    "model_size": "base",
+    "language": "en",
+    "silence_threshold": 500,
+    "silence_duration": 2.0
+}

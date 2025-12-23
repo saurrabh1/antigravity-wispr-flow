@@ -1,8 +1,3 @@
-# antigravity-wispr-flow
-Speech to text application built with Antigravity
-
-
-
 # Wispr Flow Clone (Local & Free)
 
 This is a local macOS application that mimics the functionality of Wispr Flow. It allows you to dictate text into any application using a global hotkey (default: `Right Control`).
