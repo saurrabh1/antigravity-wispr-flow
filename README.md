@@ -1,5 +1,8 @@
 # Wispr Flow Clone (Local & Free) Made using Antigravity
 
+[Watch Demo Video]([YoutubeLINK](https://youtu.be/vSL6EmNO-k8))
+
+
 This is a local macOS application that mimics the functionality of Wispr Flow. It allows you to dictate text into any application using a global hotkey (default: `Right Control`).
 
 ## Features
